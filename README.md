@@ -26,7 +26,7 @@ pip3 install -r requirements.txt
 The project includes a Jupyter Notebook (main.ipynb) for a quick start and interactive experience with the code. To use the project modules:
 
 1. Import the necessary classes from the `src` folder.
-2. Use the `src.data.data_colltion.py` to analyze raw financial data.
+2. Use the `src.data.data_colletion.py` to analyze raw financial data.
 3. Implement or use existing strategies in `src.strats`.
 4. Backtest the strategies using classes in `src.backtest`.
 5. Analyze the performance with the `src.backtest.performance` module (after you implement it!).
